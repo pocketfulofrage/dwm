@@ -332,7 +332,7 @@ static Window root, wmcheckwin;
 static int useargb = 0;
 static Visual *visual;
 static int depth;
-static Colormap cmap
+static Colormap cmap;
 
 static xcb_connection_t *xcon;
 
